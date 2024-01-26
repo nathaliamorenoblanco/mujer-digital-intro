@@ -1,0 +1,6 @@
+Nombre
+Apellidos
+Fecha Nacimiento
+Teléfono
+correo
+Contraseña
